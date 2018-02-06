@@ -5,13 +5,13 @@ RUN LOCALLY INTO YOUR MACHINE :-
 You need Node, NPM properly installed.
 
 1.Clone this repository
-git clone https://github.com/yogeshkathayat/UploadImageServerNodejsMulter.git
+git clone https://github.com/yogeshkathayat/UploadImageServerNodejsMulter.git .
 
 2. Install dependencies by
-npm install
+npm install .
 
 3. Start server by 
-npm start
+npm start .
 
 4. run upload.html on browser
 
